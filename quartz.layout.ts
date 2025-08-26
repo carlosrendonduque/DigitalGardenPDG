@@ -5,16 +5,23 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-    afterBody: [
-    // ⬇️ Giscus aquí (se renderiza al final del body en TODAS las páginas)
-    Component.Giscus({
-      repo: "carlosrendonduque/DigitalGardenPDG",
-      repoId: "R_kgDOPkba4Q",
-      category: "Comentarios",
-      categoryId: "DIC_kwDOPkba4c4CumlU",
-      mapping: "pathname",
-      theme: "preferred_color_scheme",
-      lang: "es",
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "carlosrendonduque/DigitalGardenPDG",
+        repoId: "R_kgDOPkba4Q",
+        category: "Comentarios",
+        categoryId: "DIC_kwDOPkba4c4CumlU",
+        mapping: "pathname",       // válido
+        strict: false,             // boolean
+        reactionsEnabled: true,    // boolean
+        inputPosition: "bottom",   // "top" | "bottom"
+        // Tema: usa UNO de estos enfoques (o déjalo vacío para el default):
+        // lightTheme: "light",
+        // darkTheme: "dark_dimmed",
+        // themeUrl: "https://giscus.app/themes/your-custom.css",
+      },
     }),
   ],
   footer: Component.Footer({
