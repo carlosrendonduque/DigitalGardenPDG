@@ -5,7 +5,18 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+    afterBody: [
+    // ⬇️ Giscus aquí (se renderiza al final del body en TODAS las páginas)
+    Component.Giscus({
+      repo: "carlosrendonduque/DigitalGardenPDG",
+      repoId: "R_kgDOPkba4Q",
+      category: "Comentarios",
+      categoryId: "DIC_kwDOPkba4c4CumlU",
+      mapping: "pathname",
+      theme: "preferred_color_scheme",
+      lang: "es",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -45,6 +56,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+  
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
