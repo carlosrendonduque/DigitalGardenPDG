@@ -8,12 +8,6 @@ Bienvenido a mi **Digital Garden experimental PDG**.
 
 Explora las secciones principales:
 
-- [[proyecto]]
-- [[estructura]]
-- [[personajes]]
-- [[universo]]
-
-
 ## Índices principales
 - [[Proyecto/Proyecto]]
 - [[Bitácora personal/Bitácora personal]]
