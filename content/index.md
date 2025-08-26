@@ -1,14 +1,14 @@
 ---
-title: Laboratorio Narrativo
+title: Jardín Digital - PDG
 ---
 
-# 🌱 Laboratorio Narrativo
+# 🌱 El Portador
 
-Bienvenido a mi **Digital Garden experimental PDG**.  
+Bienvenido a mi **Jardín Digital del Proyecto de Grado**.  
 
 Explora las secciones principales:
 
-## Índices principales
+## Índices 
 - [[Proyecto/Proyecto]]
 - [[Bitácora personal/Bitácora personal]]
 - [[Estructura narrativa/Estructura narrativa]]
@@ -19,14 +19,3 @@ Explora las secciones principales:
 - [[Recursos y referencias/Recursos y referencias]]
 - [[Relaciones y mapas/Relaciones y mapas]]
 - [[Universo/Universo]]
-
-## Notas clave
-- Decisiones generales: …
-- Próximos pasos (semanales): …
-- Riesgos / mitigación: …
-
-%% Opcional (requiere Dataview) — lista de todos los índices locales
-```dataview
-LIST FROM #indice
-WHERE file.path != this.file.path
-SORT file.name ASC
