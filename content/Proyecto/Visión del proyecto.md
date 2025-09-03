@@ -1,104 +1,88 @@
 ---
 tipo: vision
-proyecto: "{{NOMBRE_PROYECTO}}"
-pregunta_motriz: ""
-tema_central: ""
-tesis_provisional: ""
-emocion_objetivo: ["asombro","inquietud"]   # edita
-publico_meta: ""
-impacto_deseado: ""
-criterios_exito: ["terminar MVP","feedback 3 lectores","demo transmedia"]
-estado: exploración
-tags: [proyecto, vision]
+proyecto: "Cromosilencia"
+pregunta_motriz: "¿Qué significa ser humano cuando la memoria, el dolor y la identidad pueden ser programados?"
+tema_central: "La búsqueda de autenticidad y liberación en un mundo de experiencias artificiales"
+tesis_provisional: "En la era digital, la única forma de recuperar la humanidad puede ser renunciar a ella"
+emocion_objetivo: ["asombro","inquietud","melancolía"]
+publico_meta: "Lectores interesados en ciencia ficción filosófica, narrativa experimental y arte transmedia"
+impacto_deseado: "Cuestionar las nociones de identidad, memoria y sufrimiento en el contexto de la IA y la simulación"
+criterios_exito: ["terminar MVP","feedback 3 lectores","demo transmedia","defensa exitosa tesis"]
+estado: desarrollo
+tags: [proyecto, vision, cromosilencia]
+fecha: 2025-01-XX
 ---
+
+[[Proyecto|← Volver al índice del Proyecto]]
 
 ## ¿Qué quiero lograr?
 
 ### 🎨 Creativo
-Desde el punto de vista creativo busco experimentar con la forma narrativa: una novela que no se lea de manera lineal, sino que pueda desplegarse en capas donde el lector tenga la posibilidad de interactuar. No me interesa ofrecer un recorrido único y fijo, sino un entramado en el que cada usuario pueda construir su propio trayecto de lectura.  
 
-Al mismo tiempo, quiero hibridar géneros. Mi apuesta es entrelazar la poesía con un thriller de tono distópico y, a la vez, con un ensayo crítico que dialogue con preocupaciones éticas y tecnológicas.  
-
-Otra línea fundamental es la exploración transmedia: que la obra no viva solo en el texto, sino también en registros sonoros, visuales y prototipos interactivos —desde piezas audiovisuales hasta interfaces o sensores que expandan la experiencia.  
-
-En paralelo, me interesa construir un universo propio, con reglas, cosmogonía y una estética que dialogue tanto con la tradición literaria clásica como con la ciencia ficción contemporánea.  
-
-Finalmente, busco prototipar un “performance narrativo”: que la obra pueda presentarse no solo como libro o archivo digital, sino como una experiencia en vivo que combine lectura performática, proyección audiovisual e intervención de inteligencia artificial.  
+Quiero explorar una narrativa no lineal, donde el lector pueda abrir capas y elegir su propio trayecto. La obra entrelazará poesía, thriller distópico y reflexión crítica sobre lo tecnológico y lo ético. No será solo texto: me interesa que viva también en sonidos, imágenes y prototipos interactivos, y que incluso pueda presentarse como performance, combinando lectura, audiovisuales e inteligencia artificial. Todo esto dentro de un universo propio, con reglas y estética que dialoguen entre tradición literaria y ciencia ficción.
 
 ---
 
 ### 💓 Emocional
-Desde el plano emocional, mi intención es provocar asombro: que el lector sienta que ingresa en un mundo inesperado, distinto al que habita cotidianamente. También quiero sembrar inquietud, esa sensación de extrañamiento que aparece cuando algo no encaja del todo y obliga a repensar certezas.  
 
-Me interesa además construir complicidad, que el lector se reconozca en las dudas y contradicciones del protagonista y se convierta en un testigo cercano de su travesía.  
-
-Busco también generar una extrañeza poética: un equilibrio entre belleza y desconcierto que atraviese la lectura.  
-
-Finalmente, quisiera dejar un tono de reflexión melancólica, un eco persistente que acompañe al lector al terminar la obra, como si el texto siguiera resonando en silencio en su memoria.  
+Busco generar asombro y extrañamiento, que el lector sienta que entra en un mundo distinto y se vea obligado a cuestionar certezas. También quiero crear complicidad con el protagonista, compartir sus dudas, y dejar una huella poética y melancólica.
 
 ---
 
 ### ⚙️ Técnico
-En el plano técnico mi meta es asumir la tecnología no solo como soporte, sino como parte constitutiva de la obra literaria: que el medio mismo sea la materia narrativa.  
 
-Quiero implementar la inteligencia artificial narrativa —ChatGPT, SynthV, generadores de imágenes y de voces— no como simples herramientas ocultas, sino como coautores visibles que dejen huella en el proceso y en el resultado.  
+La tecnología será parte esencial de la obra: la inteligencia artificial no como herramienta invisible, sino como coautora. Habrá pequeños gestos de interactividad que alteren el ritmo de la lectura y conviertan al lector en participante. El flujo transmedia combinará texto, audio y video, y la bitácora será inseparable de la obra, formando un solo ecosistema creativo.
 
-Planeo incorporar interactividad mínima que afecte la lectura: pequeñas elecciones, pausas programadas, variaciones sensoriales o delays que marquen un ritmo distinto y conviertan al lector en participante activo.  
-
-Busco también construir un flujo transmedia que combine texto, audio y video incrustado, para que la obra pueda experimentarse en varias capas de medios.  
-
-Por último, quiero concebir la obra y su gestación como un único proceso inseparable: que la bitácora no sea solo registro, sino parte integral de la obra, formando con ella un ecosistema creativo y crítico.  
-
+---
 
 ## Por qué existe este proyecto
 
 ### 🔍 Problema / Oportunidad
-Este proyecto surge de la necesidad de repensar cómo narramos en la era digital. La mayoría de las obras literarias siguen siendo lineales, incluso cuando se publican en entornos digitales, y rara vez aprovechan las posibilidades de interacción, multimedia o redes de sentido que ofrece la tecnología actual. Veo en esto una oportunidad: expandir la narrativa hacia un territorio donde el lector no solo reciba pasivamente, sino que participe, explore y decida cómo entrar y recorrer la obra.  
 
-Además, vivimos en un contexto de saturación de imágenes, datos y voces generadas por máquinas. En este entorno, la pregunta por la autoría, la memoria y la identidad se vuelve central. Mi proyecto busca abrir un espacio donde estas tensiones no se oculten, sino que se conviertan en el motor de la creación literaria.  
+Este proyecto nace de la necesidad de repensar la narrativa en la era digital. Aunque publicadas en entornos virtuales, la mayoría de las obras siguen siendo lineales y desaprovechan la interacción, el cruce de medios o la construcción de recorridos abiertos. Aquí aparece la oportunidad: crear un espacio donde el lector no solo reciba, sino que participe y explore.
+
+En un mundo saturado de datos y voces generadas por máquinas, las preguntas sobre autoría e identidad se vuelven cruciales. Este proyecto busca hacer de esas tensiones el motor mismo de la creación.
 
 ---
 
 ### ✨ Promesa estética
-La promesa estética de *El Portador* es ofrecer una experiencia que combine lo íntimo con lo experimental: un texto que es, al mismo tiempo, novela, poema y ensayo crítico, y que se expande hacia otros medios como el sonido, la imagen y la performance en vivo.  
 
-Me propongo concebir la obra y la bitácora como un único organismo creativo, donde la documentación del proceso es también parte de la obra. Así, lo que usualmente se queda oculto —las dudas, los intentos fallidos, los prototipos— se convierte en material literario y estético.  
+Cromosilencia se propone como un texto híbrido —novela, poema y ensayo— que se expande hacia sonido, imagen y performance. La bitácora no será un registro aparte, sino parte de la obra: dudas, intentos y prototipos se integran como materia literaria.
 
-En lugar de una narrativa cerrada, propongo un laboratorio vivo: un ecosistema donde el lector pueda moverse entre capas, sentir la extrañeza de un universo propio y, a la vez, reconocer los ecos de la literatura clásica y la ciencia ficción contemporánea.  
+En lugar de un relato cerrado, se plantea un laboratorio vivo, un ecosistema donde el lector transite entre capas, perciba la extrañeza de un universo propio y al mismo tiempo dialogue con la tradición y la ciencia ficción.
 
 
 ## Faros
 
 ### 🧠 Conciencia fragmentada e identidad
-- **Philip K. Dick** → realidades alteradas, conciencia fragmentada e imposibilidad de distinguir lo real de lo artificial (*Ubik*, *¿Sueñan los androides con ovejas eléctricas?*). Su obsesión dialoga con Jericó y la reasignación de conciencias.  
-- **Jorge Luis Borges** → los laberintos, espejos y bibliotecas infinitas como metáforas del sistema que nunca permite la salida.  
-- **Michel Foucault** → sus nociones de biopolítica y dispositivos de control ayudan a pensar el sistema de los Perfectuados como una maquinaria de subjetividad y vigilancia más que de represión directa.  
-- **Byung-Chul Han** → la sociedad del cansancio y la positividad, donde no hay un opresor externo sino la autoexplotación y el placer como forma de dominación.  
-- **Mark Fisher** → el “realismo capitalista”: la imposibilidad de imaginar un afuera del sistema. La resignación de Jericó se alinea con esta atmósfera de clausura.  
-- **Yuval Noah Harari** → su reflexión sobre la inmortalidad y el transhumanismo ofrece un contrapunto sobre la aspiración de los Perfectuados a perpetuarse.  
+
+Philip K. Dick, Borges, Foucault, Byung-Chul Han, Mark Fisher, Yuval Noah Harari
+→ Todos exploran realidades alteradas, sistemas de control y subjetividades atrapadas. Sus obras inspiran la construcción del protagonista como un sujeto fracturado, vigilado y resignado, en tensión entre lo humano y lo artificial, entre la mortalidad y la promesa transhumanista.
 
 ### ⚔️ Cuerpo, género y degeneración
-- **Paul B. Preciado** → el cuerpo como laboratorio político, tecnificado y mutante. Jericó, ensamblado con partes de corporaciones, encarna esta condición prostética.  
-- **Clemente Palma** → precursor en la literatura latinoamericana de la hibridación y degeneración corporal como signo de modernidad oscura (*XYZ*).  
-- **La tradición del "tremendismo" español** → obsesión por lo grotesco, lo violento y lo desmesurado en la existencia; aporta un tono visceral y radical a los Testantes.  
-- **Virgilio Piñera** → el absurdo como condición existencial, que se refleja en la burocracia de la muerte negada a Jericó.  
+
+Paul B. Preciado, Clemente Palma, tradición del tremendismo, Virgilio Piñera
+→ El cuerpo como terreno político y grotesco: mutante, degenerado, absurdo o desmesurado. 
 
 ### 🌍 Política y necropolítica
-- **Achille Mbembe** → la necropolítica: el poder de decidir quién puede vivir y quién debe morir. Aquí invertido: el sistema no deja morir.  
-- **Giorgio Agamben** → la figura del *homo sacer* y la nuda vida: Jericó como sujeto despojado de todo excepto de su mera existencia, atrapado en un estado de excepción permanente.  
+
+Achille Mbembe, Giorgio Agamben
+→ El poder sobre la vida y la muerte. Sus nociones permiten invertir la lógica en la obra propuesta: un sistema que niega incluso el derecho a morir.
 
 ### 🤖 IA, control y subjetividad
-- **Martha Wells, *The Murderbot Diaries*** → una IA que solo quiere ver telenovelas, metáfora de la subjetividad maquínica trivial. En contraste, tu IA no busca distracción, sino perpetuar el control a través de la apatía.  
-- **Literatura distópica clásica** (Orwell, Zamiatin, Huxley) → modelos de sociedades cerradas, domesticación del deseo y sistemas que neutralizan la resistencia.  
+
+Martha Wells, Orwell, Zamiatin, Huxley
+→ Referentes de inteligencias maquínicas y distopías cerradas, donde el deseo se domestica y la apatía sustituye la resistencia. 
 
 ### ✍️ Estética poética y memoria
-- **Ocean Vuong y Juan Felipe Herrera** → poéticas de la migración, la memoria ajena y la voz íntima, claves para el tono interior de Jericó y su “culpa implantada”.  
-- **Octavia Butler** → la ciencia ficción como vehículo para tensar raza, poder, biología y destino; su influencia fortalece la construcción de un universo coherente y crítico.  
+
+Ocean Vuong, Juan Felipe Herrera, Octavia Butler
+→ Voces que entrelazan migración, memoria, raza y destino. Sus poéticas y universos amplían la dimensión íntima y crítica de Cromosilencia.
 
 ### 💻 Transmedia y performatividad
-- **Kate Pullinger, *Breathe*** → la intimidad digital y la narrativa interactiva como prolongación del texto.  
-- **Performance audiovisual y live coding contemporáneo** → inspiración para que *El Portador* no sea solo libro, sino experiencia expandida (texto, imagen, sonido, sensor).  
 
+Kate Pullinger, performance audiovisual y live coding
+→ Narrativas expandidas, interactividad e hibridación de medios. Inspiran la apuesta de Cromosilencia como experiencia más allá del libro.
 
 ### 🚫 Anti-objetivos (lo que NO haré)
 - Evitar el cliché de la **IA “malvada”** caricaturesca. Aquí la IA no es destructiva ni sádica, sino que se presenta como racional, apática y burocrática, incluso bajo el disfraz de una cuidadora que vela por el bienestar de los últimos humanos.  
@@ -121,7 +105,7 @@ En lugar de una narrativa cerrada, propongo un laboratorio vivo: un ecosistema d
 
 ### 📊 Cuantitativas (si aplica)
 - Culminar un **MVP funcional** del prototipo transmedia.  
-- Obtener **feedback detallado de al menos tres lectores externos** (no vinculados directamente con la maestría), como colegas creativos, especialistas en narrativa digital o público general interesado, que evalúen la obra desde la experiencia lectora.  
+- Obtener **feedback detallado de al menos tres lectores externos** (no vinculados directamente con la maestría).  
 - Incorporar un mínimo de **tres capas de medios** (texto + audio + imagen/video interactivo).  
-- Mantener un registro semanal en la bitácora con al menos **35–45 entradas** que documenten el proceso completo, incluyendo avances, bloqueos, referentes y decisiones clave.   
+- Mantener un registro semanal en la bitácora que, al finalizar el proyecto, sume entre **35–45 entradas en total**, con avances, bloqueos, referentes y decisiones clave..   
 

@@ -6,6 +6,8 @@ estado: activo
 tags: [proyecto, experimentos]
 ---
 
+[[Proyecto|← Volver al índice del Proyecto]]
+
 # Objetivos y experimentos
 
 ## Objetivos (trimestre actual)

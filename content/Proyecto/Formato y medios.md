@@ -11,6 +11,8 @@ estado: diseño
 tags: [proyecto, formato]
 ---
 
+[[Proyecto|← Volver al índice del Proyecto]]
+
 # Formato y medios
 
 ## Arquitectura de medios

@@ -4,6 +4,8 @@ proyecto: "{{NOMBRE_PROYECTO}}"
 tags: [universo, cosmogonia, reglas]
 ---
 
+[[Universo|← Volver al índice del Universo]]
+
 # Cosmogonía y reglas del mundo
 
 ## Origen / mito fundador

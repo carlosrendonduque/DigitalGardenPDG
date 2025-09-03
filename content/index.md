@@ -2,7 +2,7 @@
 title: Jardín Digital - PDG
 ---
 
-# 🌱 El Portador
+# 🌱 Cromosilencia
 
 Bienvenido a mi **Jardín Digital del Proyecto de Grado**.  
 

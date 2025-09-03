@@ -3,6 +3,9 @@ tipo: mapa
 proyecto: "{{NOMBRE_PROYECTO}}"
 tags: [mapa, conceptual]
 ---
+
+[[Relaciones y mapas|← Volver al índice de Relaciones y mapas]]
+
 # Mapa conceptual del proyecto
 
 Este es el grafo central: conecta los módulos clave del laboratorio.
