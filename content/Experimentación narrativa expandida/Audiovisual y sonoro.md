@@ -106,3 +106,88 @@ fecha: 2025-01-XX
 - Relación con [[Estructura-narrativa/Tempo]] - Cómo el sonido controla el ritmo
 - Conexión con [[Universo/Objetos-narrativos]] - Audio que identifica objetos específicos
 - Vínculo con [[Temas/Memoria-artificial]] - Sonidos como triggers de recuerdos implantados
+
+
+## Producción musical experimental con IA
+
+### Filosofía del ecosistema IA musical
+- **Especialización por herramienta:** Cada IA aporta su fortaleza específica al proceso creativo
+- **Director creativo humano:** Selección, combinación y refinamiento de elementos generados
+- **Estética coherente:** Sonidos que reflejen la degradación experimental de Nullheim
+- **Pipeline integrado:** Flujo desde concepto hasta producción final
+
+### Géneros objetivo y referencias
+- **Cumbia electrónica experimental:** Fusión de ritmos latinos con procesamiento digital
+- **Electroclash industrial:** Texturas duras que evocan maquinaria degradada
+- **Neo perreo:** Dembow procesado con elementos de vanguardia  
+- **Sonoridades de referencia:** Arca, Miss Kittin, Vitalic, elementos punk-electrónicos
+- **Conexión narrativa:** Música que podría sonar en los altavoces rotos de Nullheim
+
+### Pipeline de producción IA → Ableton
+
+#### Fase 1: Conceptualización generativa
+- **Suno AI / Udio:** Generación de demos completos como referencia conceptual
+- **ChatGPT:** Desarrollo de estructura lírica y narrativa coherente con temáticas del proyecto
+- **Análisis inicial:** Identificación de elementos utilizables vs descartables
+
+#### Fase 2: Especialización por componente
+- **Voces IA:** Synthesizer V Studio Pro para control total de interpretación
+- **Bases rítmicas:** Beatoven.ai para ritmos específicos (cumbia + industrial)
+- **Elementos experimentales:** Vital + Surge XT para texturas sonoras únicas
+- **Procesamiento extremo:** IA para generar sonidos industriales y distorsiones
+
+#### Fase 3: Producción en Ableton Live
+- **Centro de operaciones:** Importación de stems de todas las fuentes IA
+- **Akai MPK Mini:** Re-interpretación y grabación de elementos clave
+- **Síntesis híbrida:** Combinación de material generado con síntesis manual
+- **Experimentación personal:** Aplicación de estética degradada característica
+
+#### Fase 4: Finalización asistida
+- **iZotope Ozone:** Masterización con asistencia IA
+- **LANDR:** Pulido final adaptativo
+- **Control de calidad:** Verificación de coherencia estética
+
+### Herramientas específicas evaluadas
+
+#### Generación completa
+- **Suno AI:** Demos rápidos con voces femeninas procesadas estilo electroclash
+- **Udio:** Mayor control estructural para música electrónica experimental
+- **Loudly:** Especializado en bases electrónicas modulares
+
+#### Componentes especializados
+- **Synthesizer V:** Voces realistas con control de expresión y timbre
+- **Beatoven.ai:** Ritmos adaptativos para fusión latina-industrial
+- **Valhalla Supermassive:** Reverbs espaciales para texturas atmosféricas
+- **Vital (gratuito):** Síntesis wavetable para sonidos experimentales
+
+### Conexión con Cromosilencia
+
+#### Elementos narrativos en la música
+- **Voces fragmentadas:** Simulación de consciencias artificiales degradadas
+- **Ritmos irregulares:** Reflejo de sistemas que funcionan imperfectamente
+- **Procesamiento extremo:** Estética de iteraciones fallidas
+- **Espacialidad:** Paisajes sonoros que evocan la geometría caótica de Nullheim
+
+#### Aplicaciones transmedia
+- **Banda sonora adaptativa:** Música que responda al estado narrativo
+- **Elementos interactivos:** Tracks que cambien según decisiones del lector
+- **Leitmotifs experimentales:** Temas musicales asociados a personajes específicos
+- **Degradación progresiva:** Música que se corrompe conforme avanza la historia
+
+### Setup técnico actual
+- **Hardware base:** Dell Inspiron 14 5000 (Intel Core i7 + NVIDIA)
+- **DAW principal:** Ableton Live 11 Intro
+- **Controlador:** Akai MPK Mini (pads + teclado)
+- **Expansión recomendada:** Auriculares de estudio para mezcla precisa
+
+### Metodología experimental
+- **Documentación del proceso:** Registro de decisiones creativas y fallas productivas
+- **Iteración consciente:** Múltiples versiones que exploren diferentes aproximaciones
+- **Hibridación constante:** Combinación de elementos IA con síntesis manual
+- **Estética de la imperfección:** Preservación de glitches y errores narrativamente útiles
+
+### Conexiones con otros elementos del proyecto
+- Integración con [[Personajes/Nevet]] - Voces IA como extensión de su búsqueda de humanidad
+- Relación con [[Universo/Geografia-Nullheim]] - Sonidos que reflejen espacios degradados
+- Vínculo con [[IA-creativa]] - Música como exploración práctica de creatividad híbrida
+- Apoyo a [[Prototipos-e-interfaces]] - Elementos sonoros para experiencias interactivas
